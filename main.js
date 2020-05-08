@@ -155,15 +155,14 @@
 /************************************************************************/
 /******/ ({
 
-/***/ "./blocks sync recursive \\.(png|svg|jpg)$":
-/*!**************************************!*\
-  !*** ./blocks sync \.(png|svg|jpg)$ ***!
-  \**************************************/
+/***/ "./blocks sync recursive \\.(png|gif|svg|jpg)$":
+/*!******************************************!*\
+  !*** ./blocks sync \.(png|gif|svg|jpg)$ ***!
+  \******************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
 var map = {
-	"./comment/image2.jpg": "./blocks/comment/image2.jpg",
 	"./logo/logo.svg": "./blocks/logo/logo.svg"
 };
 
@@ -185,20 +184,7 @@ webpackContext.keys = function webpackContextKeys() {
 };
 webpackContext.resolve = webpackContextResolve;
 module.exports = webpackContext;
-webpackContext.id = "./blocks sync recursive \\.(png|svg|jpg)$";
-
-/***/ }),
-
-/***/ "./blocks/comment/image2.jpg":
-/*!***********************************!*\
-  !*** ./blocks/comment/image2.jpg ***!
-  \***********************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony default export */ __webpack_exports__["default"] = (__webpack_require__.p + "img/image2.jpg");
+webpackContext.id = "./blocks sync recursive \\.(png|gif|svg|jpg)$";
 
 /***/ }),
 
@@ -394,7 +380,7 @@ global.$ = jquery__WEBPACK_IMPORTED_MODULE_0___default.a;
 
 
 
-__webpack_require__("./blocks sync recursive \\.(png|svg|jpg)$");
+__webpack_require__("./blocks sync recursive \\.(png|gif|svg|jpg)$");
 
 __webpack_require__("./img sync recursive \\.(png|gif|svg|jpg)$");
 
