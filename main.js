@@ -163,6 +163,7 @@
 /***/ (function(module, exports, __webpack_require__) {
 
 var map = {
+	"./comment/image2.jpg": "./blocks/comment/image2.jpg",
 	"./logo/logo.svg": "./blocks/logo/logo.svg"
 };
 
@@ -188,6 +189,19 @@ webpackContext.id = "./blocks sync recursive \\.(png|svg|jpg)$";
 
 /***/ }),
 
+/***/ "./blocks/comment/image2.jpg":
+/*!***********************************!*\
+  !*** ./blocks/comment/image2.jpg ***!
+  \***********************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony default export */ __webpack_exports__["default"] = (__webpack_require__.p + "img/image2.jpg");
+
+/***/ }),
+
 /***/ "./blocks/logo/logo.svg":
 /*!******************************!*\
   !*** ./blocks/logo/logo.svg ***!
@@ -210,7 +224,10 @@ __webpack_require__.r(__webpack_exports__);
 
 var map = {
 	"./bg.jpg": "./img/bg.jpg",
+	"./gif_1.gif": "./img/gif_1.gif",
+	"./gif_2.gif": "./img/gif_2.gif",
 	"./gif_3.gif": "./img/gif_3.gif",
+	"./gif_4.gif": "./img/gif_4.gif",
 	"./logo-toxin.svg": "./img/logo-toxin.svg",
 	"./кроссовок1.jpg": "./img/кроссовок1.jpg",
 	"./кроссовок2.jpg": "./img/кроссовок2.jpg",
@@ -252,6 +269,32 @@ __webpack_require__.r(__webpack_exports__);
 
 /***/ }),
 
+/***/ "./img/gif_1.gif":
+/*!***********************!*\
+  !*** ./img/gif_1.gif ***!
+  \***********************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony default export */ __webpack_exports__["default"] = (__webpack_require__.p + "img/gif_1.gif");
+
+/***/ }),
+
+/***/ "./img/gif_2.gif":
+/*!***********************!*\
+  !*** ./img/gif_2.gif ***!
+  \***********************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony default export */ __webpack_exports__["default"] = (__webpack_require__.p + "img/gif_2.gif");
+
+/***/ }),
+
 /***/ "./img/gif_3.gif":
 /*!***********************!*\
   !*** ./img/gif_3.gif ***!
@@ -262,6 +305,19 @@ __webpack_require__.r(__webpack_exports__);
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony default export */ __webpack_exports__["default"] = (__webpack_require__.p + "img/gif_3.gif");
+
+/***/ }),
+
+/***/ "./img/gif_4.gif":
+/*!***********************!*\
+  !*** ./img/gif_4.gif ***!
+  \***********************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony default export */ __webpack_exports__["default"] = (__webpack_require__.p + "img/gif_4.gif");
 
 /***/ }),
 
