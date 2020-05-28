@@ -7256,13 +7256,13 @@ body {
   margin-bottom: 1em; }
 
 .fa-html5 {
-  color: #e54d26; }
+  color: red; }
 
 .fa-bold {
-  color: #563d7c; }
+  color: purple; }
 
 .fa-css3 {
-  color: #2163af; }
+  color: blue; }
 
 .fa-html5,
 .fa-bold,
@@ -7276,7 +7276,7 @@ body {
   border-bottom: 4px solid #f0f0f0;
   background: url(img/bg.jpg) no-repeat center center fixed;
   background-blend-mode: multiply;
-  background-color: red;
+  background-color: pink;
   background-size: cover;
   -o-background-size: cover;
   -moz-background-size: cover;
